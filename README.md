@@ -1,2 +1,1 @@
-# Miner
-Miner_Copy
+<h1>Hello World</h1>
